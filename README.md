@@ -1,6 +1,7 @@
 # Learning Vuejs3
 
 [My notes](NOTES.md)
+
 [Official guide](https://vuejs.org/guide/introduction.html)
 
 ## Courses
