@@ -1,4 +1,6 @@
-VS Code plugin: Vetur
+VS Code plugins: 
+- Vue Language Features (Volar)
+- Vue 3 Snippets (hollowtree)
 
 Vue Tools for Firefox/Chrome
 
@@ -16,3 +18,17 @@ Run application:
 - vuecli: `yarn serve`
 - vite: `yarn dev`
 
+SFC - single file component
+```html
+<template>
+
+</template>
+
+<script>
+
+</script>
+
+<style>
+
+</style>
+```
