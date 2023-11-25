@@ -32,3 +32,7 @@ SFC - single file component
 
 </style>
 ```
+
+Two types of APIs:
+- options API
+- composition API

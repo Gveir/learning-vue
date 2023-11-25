@@ -1,6 +1,8 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HomePage/>
+  <div class="container">
+    <HomePage/>
+  </div>
 </template>
 
 <script>
